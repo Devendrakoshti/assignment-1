@@ -49,7 +49,7 @@ abs. There are two reasons behind this: It enhances the legibility of style shee
 ans. left-margin to auto and right-margin to auto.
 
 12.How to maintain the CSS specifications? 
-ans. 
+ans. CSS specifications are maintained by the World Wide Web Consortium (W3C).
 
 13.What are the ways to integrate CSS as a web page? 
 ans. CSS can be added to HTML documents in 3 ways:
